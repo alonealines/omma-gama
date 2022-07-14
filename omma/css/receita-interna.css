@@ -3,7 +3,7 @@ body {
   display: grid;
   margin: 0px;
   padding: 0px;
-  gap: 20px; /* nesse caso dá espeçado para todos os elementos dentro do body */
+  gap: 20px;
 }
 
 h1,
