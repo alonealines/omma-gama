@@ -1,0 +1,117 @@
+.banner-3 {
+  width: 100%;
+}
+
+.banner-4 {
+  border-radius: 20px;
+}
+.frase-2 {
+  margin: 0;
+  padding: 166px 0 0 0;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 70px;
+  line-height: 85px;
+  text-transform: lowercase;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.36);
+  color: #ffffff;
+  position: absolute;
+  left: 300px;
+  top: 60px;
+}
+
+.forms {
+  display: flex;
+  justify-content: center;
+  gap: 80px;
+  padding: 140px;
+}
+
+.fomulario {
+  box-sizing: border-box;
+  width: 820px;
+  height: 790px;
+  left: 492px;
+  top: 680px;
+  background: #ffffff;
+  border: 1px solid #ffa000;
+  border-radius: 20px;
+}
+
+.contato-form {
+  color: #ffc107;
+  font-family: Ubuntu, sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 46px;
+  letter-spacing: 0em;
+  position: relative;
+  left: -100px;
+}
+
+.forms-inside {
+  padding-top: 73px;
+}
+
+label {
+  margin: 40px;
+}
+
+#nome,
+#email {
+  font-size: 18px;
+  border: 1px solid #ffc107;
+  margin-bottom: 23px;
+  border-radius: 7px;
+  width: 700px;
+  padding: 10px;
+  margin: 20px;
+}
+
+#mensagem {
+  font-size: 18px;
+  border: 1px solid #ffc107;
+  margin-bottom: 23px;
+  border-radius: 7px;
+  width: 700px;
+  padding: 140px 10px;
+  margin: 20px;
+}
+
+#nome,
+#email,
+#mensagem {
+  margin-left: -30px;
+}
+
+#enviar {
+  color: #ffffff;
+  background: #ffc107;
+  padding: 10px 50px 10px;
+  border-radius: 50px;
+  margin: 50px;
+  margin-top: 30px;
+  font-family: "Nunito", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 16px;
+  line-height: 22px;
+  text-align: center;
+  text-transform: lowercase;
+  outline-style: none;
+  border-style: none;
+}
+
+.rodape {
+  background: #ffa000;
+  width: 100%;
+  padding: 15px;
+  box-sizing: border-box;
+  display: flex;
+}
+
+.rodape p {
+  color: #ffff;
+  position: relative;
+  top: 30px;
+}
